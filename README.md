@@ -33,4 +33,7 @@ To run this project, you need a web browser and a local web server for testing p
 4. To delete a task, click the "Delete" button next to the task and confirm the deletion.
 
 ### Project Structure
-
+├── index.html # HTML file that contains the structure of the application
+├── styles.css # CSS file that contains the styles of the application
+├── script.js # JavaScript file that contains the logic of the application
+├── README.md # This README file
