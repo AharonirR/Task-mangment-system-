@@ -12,7 +12,7 @@ To run this project, you need a web browser and a local web server for testing p
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/nirkil/task-management-system.git
+    git clone https://github.com/AharonirR/task-management-system.git
     cd task-management-system
     ```
 
